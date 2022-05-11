@@ -11,7 +11,7 @@ README.md
 ### In brute force attack method,tool try all combination of password to provide access of victim account Brute force attack is the only successful method to hack facebook account. Hack Facebook Account Password Using Brute
 ### Download&Install
 
-### git clone https://github.com/Ha3MrX/facebook-cracker
+### git clone https://github.com/Aghorii001/Facebook-Cracker.git
     ''''''''''''''''''''''''''''''''''''''''''''''''''''
 
 ### cd facebook-cracker
