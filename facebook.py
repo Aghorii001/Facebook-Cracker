@@ -3,7 +3,8 @@
 
 import sys
 import mechanize
-import cookielib
+import http.cookiejar
+cookielib = http.cookiejar
 import random
 
 
