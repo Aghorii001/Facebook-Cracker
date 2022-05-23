@@ -77,7 +77,7 @@ def welcome():
 	total = total.readlines()
 	print( " [*] Account to crack : {}".format(email))
 	print (" [*] Loaded :" , len(total), "passwords")
-	print "( [*] Cracking, please wait ...\n\n")
+	print (" [*] Cracking, please wait ...\n\n")
 
 	
 if __name__ == '__main__':
